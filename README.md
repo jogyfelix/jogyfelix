@@ -8,7 +8,7 @@ I have been working as a software engineer for 2 years. Started with Android dev
 
 * 🌍  I'm based in Bangalore,India
 * ✉️  You can contact me at [jogyfelix1@gmail.com](mailto:jogyfelix1@gmail.com)
-* 🧠  I'm learning Strategies for creating habit forming applications
+* 🧠  I'm learning strategies for creating habit forming applications
 * ⚡  Music producer on the other side
 
 ### Skills
