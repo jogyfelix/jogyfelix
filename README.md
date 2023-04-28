@@ -1,7 +1,7 @@
-Hi there👋
+Hello there👋
 ==========
 
-Hello there! I'm a mobile engineer passionate about creating amazing user experiences through mobile apps. My expertise lies in building robust and scalable applications for both Android and iOS platforms.
+I'm a mobile engineer passionate about creating amazing user experiences through mobile apps. My expertise lies in building robust and scalable applications for both Android and iOS platforms.
 
 * ✉️  You can contact me at [jogyfelix1@gmail.com](mailto:jogyfelix1@gmail.com)
 * 🧠  I'm learning strategies for creating habit forming applications
