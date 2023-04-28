@@ -1,12 +1,11 @@
-Hi 👋 My name is Jogy Felix
-===========================
+Hi 👋
+=====
 
-Software Engineer
+Mobile Engineer
 -----------------
 
-I have been working as a software engineer for 2 years. Started with Android development, now working as a React Native developer.I am pretty much interested in UI/UX Designing and love to contribute to open source.
+Hello there! I'm a mobile engineer passionate about creating amazing user experiences through mobile apps. My expertise lies in building robust and scalable applications for both Android and iOS platforms.
 
-* 🌍  I'm based in Bangalore,India
 * ✉️  You can contact me at [jogyfelix1@gmail.com](mailto:jogyfelix1@gmail.com)
 * 🧠  I'm learning strategies for creating habit forming applications
 * ⚡  Music producer on the other side
