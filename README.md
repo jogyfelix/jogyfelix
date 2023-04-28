@@ -1,8 +1,5 @@
-Hi 👋
-=====
-
-Mobile Engineer
------------------
+Hi there👋
+==========
 
 Hello there! I'm a mobile engineer passionate about creating amazing user experiences through mobile apps. My expertise lies in building robust and scalable applications for both Android and iOS platforms.
 
