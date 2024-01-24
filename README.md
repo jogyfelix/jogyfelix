@@ -14,5 +14,4 @@
 
   [![Bento](https://img.shields.io/badge/Bento-8A2BE2)](https://bento.me/jogyfelix)
   Feel free to explore my repositories and don't hesitate to reach out!
-    Feel free to visit my profile <a href="https://bento.me/jogyfelix">here</a> and explore my projects! 
 </p>
