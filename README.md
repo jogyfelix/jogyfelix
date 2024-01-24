@@ -7,10 +7,10 @@
 
 <h1> Hi there, </h1>
 <p>
-    - 🚀 Mobile App Engineer passionate about creating seamless user experiences.
-    - ✨ Specialized in animations and interactions to enhance app aesthetics.
-    - 💻 Currently working on Tern.
-    - 🌱 Always learning and exploring new technologies.
+    - 🚀 Mobile App Engineer passionate about creating seamless user experiences.</br>
+    - ✨ Specialized in animations and interactions to enhance app aesthetics.</br>
+    - 💻 Currently working on Tern.</br>
+    - 🌱 Always learning and exploring new technologies.</br>
 
   [![Bento](https://img.shields.io/badge/Bento-8A2BE2)](https://bento.me/jogyfelix)
   Feel free to explore my repositories and don't hesitate to reach out!
