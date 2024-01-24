@@ -1,4 +1,4 @@
-<a href="https://github.com/jameskokoska">
+<a href="https://github.com/jogyfelix">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github.com/jogyfelix/jogyfelix/assets/Felix.gif">
     <img width="100%" src="https://github.com/jogyfelix/jogyfelix/assets/Felix.gif">
