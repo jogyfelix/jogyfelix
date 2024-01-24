@@ -5,7 +5,7 @@
   </picture>
 </a>
 
-<h1> Hi there, </h1>
+<h1> Hi there, I'm Jo! 👋 </h1>
 <p>
     - 🚀 Mobile App Engineer passionate about creating seamless user experiences.</br>
     - ✨ Specialized in animations and interactions to enhance app aesthetics.</br>
