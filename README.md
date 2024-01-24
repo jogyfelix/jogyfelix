@@ -1,7 +1,7 @@
 <a href="https://github.com/jogyfelix">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/jogyfelix/jogyfelix/assets/Felix.gif">
-    <img width="100%" src="https://github.com/jogyfelix/jogyfelix/assets/Felix.gif">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/jogyfelix/jogyfelix/blob/main/assets/Felix.gif">
+    <img width="100%" src="https://github.com/jogyfelix/jogyfelix/blob/main/assets/Felix.gif">
   </picture>
 </a>
 
