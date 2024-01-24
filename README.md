@@ -5,7 +5,7 @@
   </picture>
 </a>
 
-<h1> Hello! </h1>
+<h1> Greetings! </h1>
 <p>
-    Feel free to visit my website <a href="https://bento.me/jogyfelix">here</a> and explore my GitHub projects! 
+    Feel free to visit my profile <a href="https://bento.me/jogyfelix">here</a> and explore my projects! 
 </p>
