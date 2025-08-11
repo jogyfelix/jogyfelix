@@ -9,7 +9,7 @@
 <p>
     - 🚀 Mobile App Engineer passionate about creating seamless user experiences.</br>
     - ✨ Specialized in animations and interactions to enhance app aesthetics.</br>
-    - 💻 Currently working on Tern.</br>
+    - 💻 Currently working on Looplog.</br>
     - 🌱 Always learning and exploring new technologies.</br>
 
   [![Bento](https://img.shields.io/badge/Bento-8A2BE2)](https://bento.me/jogyfelix)
