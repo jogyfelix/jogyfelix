@@ -9,7 +9,7 @@
 <p>
     - 🚀 Founding Software Engineer at <strong>Saturn AI (YC S24)</strong>.<br>
     - 📱 5+ years of expertise in Native Android (Jetpack Compose) & React Native.<br>
-    - 🛠️ Creator of <strong>looplog</strong> (Privacy-first habit tracker).<br>
+    - 🛠️ Creator of<a href="https://looplog.site"><strong>looplog</strong></a>(Privacy-first habit tracker).<br>
     - 🎹 Exploring AI Agents, MCP, and playing piano.<br>
 
   [![Portfolio](https://img.shields.io/badge/portfolio-blue)](https://jogyfelix.xyz)
