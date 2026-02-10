@@ -7,11 +7,11 @@
 
 <h1> Hi there, I'm Jo! 👋 </h1>
 <p>
-    - 🚀 Mobile App Engineer passionate about creating seamless user experiences.</br>
-    - ✨ Specialized in animations and interactions to enhance app aesthetics.</br>
-    - 💻 Currently working on looplog.</br>
-    - 🌱 Always learning and exploring new technologies.</br>
+    - 🚀 Founding Software Engineer at <strong>Saturn AI (YC S24)</strong>.<br>
+    - 📱 5+ years of expertise in Native Android (Jetpack Compose) & React Native.<br>
+    - 🛠️ Creator of <strong>looplog</strong> (Privacy-first habit tracker).<br>
+    - 🎹 Exploring AI Agents, MCP, and playing piano.<br>
 
-  [![Bento](https://img.shields.io/badge/Bento-8A2BE2)](https://bento.me/jogyfelix)
+  [![Portfolio](https://img.shields.io/badge/portfolio-blue)](https://jogyfelix.xyz)
   Feel free to explore my repositories and don't hesitate to reach out!
 </p>
