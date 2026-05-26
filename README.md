@@ -7,11 +7,8 @@
 
 <h1> Hi there, I'm Jo! 👋 </h1>
 <p>
-    - 🚀 Founding Software Engineer at <strong>Saturn AI (YC S24)</strong>.<br>
     - 📱 5+ years of expertise in Native Android (Jetpack Compose) & React Native.<br>
-    - 🛠️ Creator of<a href="https://looplog.site"><strong>looplog</strong></a>(Privacy-first habit tracker).<br>
-    - 🎹 Exploring AI Agents, MCP, and playing piano.<br>
+    - 🎹 Wandering through ideas and melodies alike.<br>
 
   [![Portfolio](https://img.shields.io/badge/portfolio-blue)](https://jogyfelix.xyz)
-  Feel free to explore my repositories and don't hesitate to reach out!
 </p>
