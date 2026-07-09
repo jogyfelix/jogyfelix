@@ -7,7 +7,7 @@
 
 <h1> Hi there, I'm Jo! 👋 </h1>
 <p>
-    - 📱 5+ years of expertise in Native Android (Jetpack Compose) & React Native.<br>
+    - 📱 6+ years of expertise in Native Android (Jetpack Compose) & React Native.<br>
     - 🎹 Wandering through ideas and melodies alike.<br>
 
   [![Portfolio](https://img.shields.io/badge/portfolio-blue)](https://jogyfelix.xyz)
